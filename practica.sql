@@ -75,4 +75,5 @@ INSERT INTO cliente VALUES ('214', 'Sports Retail', '1-716-555-7777','115 Main S
 'Buffalo', 'NY', 'US', NULL, 'MALO', '11', '1', NULL);
 INSERT INTO cliente VALUES ('215', 'Sports Russia', '7-0953892444','7070 Yekatamina',
 'Saint Petersburg', NULL, 'Russia', NULL,'MALO', '11', '5', NULL);
+
 COMMIT;
